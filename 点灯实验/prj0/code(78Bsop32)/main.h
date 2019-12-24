@@ -15,5 +15,4 @@
 
 // Function ------------------------------------
 void delayMs(uint16_t msCount);
-
 #endif

@@ -3,8 +3,8 @@
 // Hal: exp: #define P_led P10 -----------------
 #define P_led P1_1
 // Const: exp: #define D_data 1 ----------------
-#define D_ledOn 1  //高电位的时候亮
-#define D_ledOff 0 //低点位的时候灭
+#define D_ledOn 1  //高电位亮
+#define D_ledOff 0 //低点位灭
 // Globle Var -----------------------------------------
 #ifdef __display_c
 

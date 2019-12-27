@@ -13,6 +13,7 @@ void SysInit()
 	_nop_();
 	_nop_();
 	_nop_();
+
 	SELFCK = 1;
 	_nop_();
 	_nop_();
